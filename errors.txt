@@ -1,0 +1,41 @@
+
+https://adstransparency.google.com/advertiser/AR07654845719748018177/creative/CR08817366373182210049?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR02693627978507616257/creative/CR571111834392723456?political=&region=US did not work because there was a key error in get_adserver_url
+https://adstransparency.google.com/advertiser/AR08421362279592755201/creative/CR10296376638308352001?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR14654344163873521665/creative/CR05498969911810064385?political=&region=US did not work because there was a key error in get_adserver_url
+https://adstransparency.google.com/advertiser/AR17361091377684807681/creative/CR06968757473402421249?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR14996617735553679361/creative/CR14526782810548600833?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR09173547255125245953/creative/CR12476228809118449665?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR17302460744767373313/creative/CR16864595219851509761?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR03171009539008888833/creative/CR15889017244223537153?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR03788002687958646785/creative/CR18251570314418847745?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR06386579672951422977/creative/CR07528892677056626689?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR02621429646981332993/creative/CR18058590080825556993?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR00340999924898332673/creative/CR15607646721117519873?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR06674810049103134721/creative/CR05742970233711230977?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR14947161977414221825/creative/CR09008642913508261889?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR01638941240772788225/creative/CR05334268567527358465?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR16717837218139340801/creative/CR05654128594675302401?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR01558720872410251265/creative/CR08144233260029837313?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR18222039493681086465/creative/CR15823715049626664961?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR04443779185432854529/creative/CR00582160620581814273?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR13813518210177171457/creative/CR17449231940619075585?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/political?political= did not work because index error in extract_ids
+https://transparencyreport.google.com/political-ads/library/advertiser/AR40001263810641920/creative/CR122614169475219456 did not work because redirect url was incomplete
+https://adstransparency.google.com/advertiser/AR17197973330146099201/creative/CR04404838194428772353?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR00237417133468811265/creative/CR03417704351592873985?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/political?political= did not work because index error in extract_ids
+https://transparencyreport.google.com/political-ads/library/advertiser/AR442874212697243648/creative/CR86371517444653056 did not work because redirect url was incomplete
+https://adstransparency.google.com/advertiser/AR17203381552965222401/creative/CR08765552987234893825?political=&region=US did not work because there was a key error in get_adserver_url
+https://adstransparency.google.com/advertiser/AR04670024593568694273/creative/CR15646800879938437121?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR02981858354659328001/creative/CR12964596689804460033?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR04697729812687486977/creative/CR85874538188898304?political=&region=US did not work because there was a key error in get_adserver_url
+https://adstransparency.google.com/advertiser/AR14033691840226525185/creative/CR09731685058468642817?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR14893118781885775873/creative/CR11753972814971928577?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR03237719108489314305/creative/CR13810043066238631937?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR05778593723256406017/creative/CR16472971168270254081?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/political?political= did not work because index error in extract_ids
+https://transparencyreport.google.com/political-ads/library/advertiser/AR57116949003370496/creative/CR94426814507646976 did not work because redirect url was incomplete
+https://adstransparency.google.com/advertiser/AR04287057821666639873/creative/CR05131043634342264833?political=&region=US did not work because adserver_url was none
+https://adstransparency.google.com/advertiser/AR11776064889791971329/creative/CR463133470353260544?political=&region=US did not work because there was a key error in get_adserver_url
+https://adstransparency.google.com/advertiser/AR00820130533521489921/creative/CR17339456699701919745?political=&region=US did not work because adserver_url was none
